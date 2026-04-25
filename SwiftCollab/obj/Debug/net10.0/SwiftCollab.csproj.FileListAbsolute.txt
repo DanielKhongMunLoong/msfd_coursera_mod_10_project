@@ -1,0 +1,15 @@
+C:\Users\chysa\OneDrive\Desktop\Csharp\coursera\1_ms fullstack\10_data_structures_and_algorithms\5_module_5\1_code\msfd_coursera_mod_10_project\SwiftCollab\bin\Debug\net10.0\SwiftCollab.exe
+C:\Users\chysa\OneDrive\Desktop\Csharp\coursera\1_ms fullstack\10_data_structures_and_algorithms\5_module_5\1_code\msfd_coursera_mod_10_project\SwiftCollab\bin\Debug\net10.0\SwiftCollab.deps.json
+C:\Users\chysa\OneDrive\Desktop\Csharp\coursera\1_ms fullstack\10_data_structures_and_algorithms\5_module_5\1_code\msfd_coursera_mod_10_project\SwiftCollab\bin\Debug\net10.0\SwiftCollab.runtimeconfig.json
+C:\Users\chysa\OneDrive\Desktop\Csharp\coursera\1_ms fullstack\10_data_structures_and_algorithms\5_module_5\1_code\msfd_coursera_mod_10_project\SwiftCollab\bin\Debug\net10.0\SwiftCollab.dll
+C:\Users\chysa\OneDrive\Desktop\Csharp\coursera\1_ms fullstack\10_data_structures_and_algorithms\5_module_5\1_code\msfd_coursera_mod_10_project\SwiftCollab\bin\Debug\net10.0\SwiftCollab.pdb
+C:\Users\chysa\OneDrive\Desktop\Csharp\coursera\1_ms fullstack\10_data_structures_and_algorithms\5_module_5\1_code\msfd_coursera_mod_10_project\SwiftCollab\obj\Debug\net10.0\SwiftCollab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chysa\OneDrive\Desktop\Csharp\coursera\1_ms fullstack\10_data_structures_and_algorithms\5_module_5\1_code\msfd_coursera_mod_10_project\SwiftCollab\obj\Debug\net10.0\SwiftCollab.AssemblyInfoInputs.cache
+C:\Users\chysa\OneDrive\Desktop\Csharp\coursera\1_ms fullstack\10_data_structures_and_algorithms\5_module_5\1_code\msfd_coursera_mod_10_project\SwiftCollab\obj\Debug\net10.0\SwiftCollab.AssemblyInfo.cs
+C:\Users\chysa\OneDrive\Desktop\Csharp\coursera\1_ms fullstack\10_data_structures_and_algorithms\5_module_5\1_code\msfd_coursera_mod_10_project\SwiftCollab\obj\Debug\net10.0\SwiftCollab.csproj.CoreCompileInputs.cache
+C:\Users\chysa\OneDrive\Desktop\Csharp\coursera\1_ms fullstack\10_data_structures_and_algorithms\5_module_5\1_code\msfd_coursera_mod_10_project\SwiftCollab\obj\Debug\net10.0\SwiftCollab.sourcelink.json
+C:\Users\chysa\OneDrive\Desktop\Csharp\coursera\1_ms fullstack\10_data_structures_and_algorithms\5_module_5\1_code\msfd_coursera_mod_10_project\SwiftCollab\obj\Debug\net10.0\SwiftCollab.dll
+C:\Users\chysa\OneDrive\Desktop\Csharp\coursera\1_ms fullstack\10_data_structures_and_algorithms\5_module_5\1_code\msfd_coursera_mod_10_project\SwiftCollab\obj\Debug\net10.0\refint\SwiftCollab.dll
+C:\Users\chysa\OneDrive\Desktop\Csharp\coursera\1_ms fullstack\10_data_structures_and_algorithms\5_module_5\1_code\msfd_coursera_mod_10_project\SwiftCollab\obj\Debug\net10.0\SwiftCollab.pdb
+C:\Users\chysa\OneDrive\Desktop\Csharp\coursera\1_ms fullstack\10_data_structures_and_algorithms\5_module_5\1_code\msfd_coursera_mod_10_project\SwiftCollab\obj\Debug\net10.0\SwiftCollab.genruntimeconfig.cache
+C:\Users\chysa\OneDrive\Desktop\Csharp\coursera\1_ms fullstack\10_data_structures_and_algorithms\5_module_5\1_code\msfd_coursera_mod_10_project\SwiftCollab\obj\Debug\net10.0\ref\SwiftCollab.dll
